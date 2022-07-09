@@ -1,0 +1,24 @@
+.App {
+  margin: 5px;
+}
+nav{
+  background-color: blue;
+
+}
+.nav-link{
+  color: aliceblue;
+}
+.nav-link:hover {
+  color: rgb(0, 0, 0);
+}
+.navbar-brand{
+  color: aliceblue;
+  font-size: 35px;
+  font-weight: bold;
+
+}
+.maincontainer{
+  border: 1px solid black;
+  margin: 180Px;
+  padding: 20px;
+}
